@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+# the maintainer's own project card (local paths, personal notes)
+/PROJECT.md

@@ -1,0 +1,14 @@
+{
+  "name": "jethro",
+  "description": "jethro 好物分享: Claude Code plugins by jethrowong666.",
+  "owner": {
+    "name": "jethrowong666"
+  },
+  "plugins": [
+    {
+      "name": "project-relay",
+      "source": "./plugins/project-relay",
+      "description": "Pick up any project where the last session left off: PROJECT.md cards, one-command sidebar rebuild, and a reminder to keep cards current."
+    }
+  ]
+}

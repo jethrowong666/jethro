@@ -1,0 +1,15 @@
+{
+  "hooks": {
+    "Stop": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "python3 \"${CLAUDE_PLUGIN_ROOT}/scripts/relay.py\" hook-stop 2>/dev/null || python \"${CLAUDE_PLUGIN_ROOT}/scripts/relay.py\" hook-stop",
+            "timeout": 20
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "$schema": "https://anthropic.com/claude-code/plugin.schema.json",
+  "name": "project-relay",
+  "version": "0.1.0",
+  "description": "Pick up any project where the last session left off: a PROJECT.md card per project as the source of truth, one-command sidebar rebuild after switching accounts or machines, and a Stop-hook reminder to keep cards current.",
+  "author": {
+    "name": "jethrowong666",
+    "url": "https://github.com/jethrowong666"
+  },
+  "license": "MIT",
+  "keywords": [
+    "projects",
+    "handoff",
+    "continuity",
+    "workspace",
+    "sessions",
+    "sidebar"
+  ],
+  "homepage": "https://github.com/jethrowong666/jethro/tree/main/plugins/project-relay",
+  "repository": "https://github.com/jethrowong666/jethro"
+}
