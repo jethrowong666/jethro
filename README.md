@@ -1,8 +1,8 @@
 # jethro
 
-好物分享。目前收录的是 Claude Code 插件，这个仓库本身就是一个插件市场。
+好物分享：Claude Code 插件（这个仓库本身就是一个插件市场），以及一些独立的小工具。
 
-Good stuff worth sharing. For now: Claude Code plugins. This repository is a plugin marketplace.
+Good stuff worth sharing: Claude Code plugins (this repository is a plugin marketplace) and a few standalone tools.
 
 ## 插件 / Plugins
 
@@ -24,6 +24,12 @@ The easy way: tell Claude (desktop app, Code tab):
 /plugin marketplace add jethrowong666/jethro
 /plugin install project-relay@jethro
 ```
+
+## 小工具 / Tools
+
+| 工具 | 说明 |
+|---|---|
+| [LanDrop 局域网快传](https://github.com/jethrowong666/lan-drop) | 电脑运行一个 exe，手机、平板扫码用浏览器互传文件、文件夹、文字，不用装 App；iPhone 可以一键存相册。[下载](https://github.com/jethrowong666/lan-drop/releases/latest)<br>LAN file sharing between PC, phones and tablets via the browser — no app needed. |
 
 ## License
 MIT
